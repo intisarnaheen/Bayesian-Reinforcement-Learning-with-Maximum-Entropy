@@ -1,4 +1,5 @@
 
+## Bayesian Reinforcement Learning with Maximum Entropy Finite State Controllers.
 <div id="top"></div>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -57,12 +58,13 @@ mellowmax policy suggests an improvement in the result.
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This project was successfully built with the following libraries. To install the libraries and use the codebase, you should properly be aware of the version conflicts of tensorflow and numpy as well. But I strongly recommend to use Anaconda for that.
 
-* [Python](https://python.org/)
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
+* [numpy](https://python.org/)
+* [Tensorflow](https://nextjs.org/)
+* [Gymspaces](https://reactjs.org/)
+* [Matplotlib](https://vuejs.org/)
+* [Scipy](https://vuejs.org/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
