@@ -113,7 +113,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 ## Results
 
-![Results_image](https://raw.githubusercontent.com/tarbiarswat/Laravel-Link-Shortener-Premium-12s.us/3419463187c90b841dea228ba937599a54a93328/public/client/assets/images/illustrations/custom-page.svg?token=ANAUELBPOQ5KISBYQ336ZB3BLXP6W)
+In this section we analyze the performance of our mellowmax policy. Here, we compare the influence of the number of memory states of the fsc. It is expected that as the number of memory states increases the performance of the finite state controller should improve.
+
+![Results_image](https://raw.githubusercontent.com/intisarnaheen/Bayesian-Reinforcement-Learning-with-Maximum-Entropy/master/Snapshots/Number%20of%20iterations.PNG)
 
 
 ## Contribution
