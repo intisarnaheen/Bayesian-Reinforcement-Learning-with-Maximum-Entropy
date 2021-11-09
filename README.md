@@ -56,7 +56,7 @@ mellowmax policy suggests an improvement in the result.
 
 
 
-### Built With
+### Used Libraries
 
 This project was successfully built with the following libraries. To install the libraries and use the codebase, you should properly be aware of the version conflicts of tensorflow and numpy as well. But I strongly recommend to use Anaconda for that.
 
@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [@Follow me on twitter](https://twitter.com/itnsir) <br>
 Email me - intisar.naheen@northsouth.edu <br>
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Bayesian Reinforcement Learning with Maximum Entropy Finite State Controllers.](https://github.com/intisarnaheen/Bayesian-Reinforcement-Learning-with-Maximum-Entropy)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
