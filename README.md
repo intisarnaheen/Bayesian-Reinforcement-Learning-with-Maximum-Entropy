@@ -96,7 +96,6 @@ To get started with this project, the level of code interraction needed is inter
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
 ## Results
 
 In this section we analyze the performance of our mellowmax policy. Here, we compare the influence of the number of memory states of the fsc. It is expected that as the number of memory states increases the performance of the finite state controller should improve.
