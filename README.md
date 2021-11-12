@@ -2,12 +2,6 @@
 ## Bayesian Reinforcement Learning with Maximum Entropy Finite State Controllers.
 <div id="top"></div>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 <br />
@@ -60,11 +54,11 @@ mellowmax policy suggests an improvement in the result.
 
 This project was successfully built with the following libraries. To install the libraries and use the codebase, you should properly be aware of the version conflicts of tensorflow and numpy as well. But I strongly recommend to use Anaconda for that.
 
-* [numpy](https://python.org/)
-* [Tensorflow](https://nextjs.org/)
-* [Gymspaces](https://reactjs.org/)
-* [Matplotlib](https://vuejs.org/)
-* [Scipy](https://vuejs.org/)
+* [numpy](https://numpy.org/)
+* [Tensorflow](https://www.tensorflow.org/)
+* [Gym](https://gym.openai.com/docs/)
+* [Matplotlib](https://matplotlib.org/)
+* [Scipy](https://scipy.org/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -74,28 +68,32 @@ This project was successfully built with the following libraries. To install the
 
 To get started with this project, the level of code interraction needed is intermediate level at least. Please follow the simple steps below to run the repo:
 
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/intisarnaheen/Bayesian-Reinforcement-Learning-with-Maximum-Entropy.git
    ```
-3. Install NPM packages
+2. Install numpy
    ```sh
-   npm install
+   pip install numpy
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Install Tensorflow
+   ```sh
+   pip install tensorflow
+   ```
+4. Install Gym
+   ```sh
+   pip install gym
+   ```
+5. Install Matplotlib
+   ```sh
+   pip install matplotlib
+   ```
+5. Install Scipy
+   ```sh
+   pip install scipy
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
