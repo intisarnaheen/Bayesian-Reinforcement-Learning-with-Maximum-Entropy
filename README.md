@@ -1,7 +1,11 @@
 
 ## Bayesian Reinforcement Learning with Maximum Entropy Finite State Controllers.
 <div id="top"></div>
-
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=intisarnaheen&color=blueviolet" alt="watching_count" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision%2C%20Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/License-MIT-blue" />
+</p>
 
 
 <br />
